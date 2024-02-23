@@ -1,6 +1,10 @@
  INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
+**NAME: NARMADHA SREE S**
 
+**REGISTER NUMBER: 212223240105**
+
+**DEPARTMENT: ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING**
 
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
@@ -49,8 +53,6 @@ CIRCUIT DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
-**FIGURE -01
-**
 
 **PROCEDURE:**
 
@@ -67,23 +69,35 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
- 
+
+ ![image](https://github.com/Narmadhasree48/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979451/3f219d1b-6cca-4200-91c3-f69b5fe03970)
 
 
 
 
 
+**GRAPH:**
+
+
+![Screenshot 2024-02-23 155300](https://github.com/Narmadhasree48/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979451/0215fbc7-14d4-4805-80f4-addf0e58e5e5)
 
 
 
-
-**
 **Simulation output:** 
-**
 
 
-[My image](username.github.com/repository/img/image.jpg)
+**FIGURE 1:**
 
+![Screenshot 2024-02-23 161238](https://github.com/Narmadhasree48/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979451/9b78cd7c-7293-49b5-bde6-31c23b2f636c)
+
+
+**FIGURE 2:**
+
+![image](https://github.com/Narmadhasree48/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979451/96bc10f3-5d06-45d3-a515-8e637348c45e)
+
+**FIGURE 3:**
+
+![Screenshot 2024-02-23 161521](https://github.com/Narmadhasree48/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979451/adffacf5-a52e-4725-b7df-b7d75a008920)
 
 
 
